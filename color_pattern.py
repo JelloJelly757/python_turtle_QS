@@ -12,7 +12,6 @@ def turn_right():
 
 player = turtle.Turtle()
 player.shape("turtle")
-colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'purple']
 player.penup()
 player.goto(-210, 255) # turtle starting coordinates
 
